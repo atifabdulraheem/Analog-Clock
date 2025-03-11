@@ -57,4 +57,4 @@ We welcome contributions to the Analog Clock project. To contribute, follow thes
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
-For any questions or feedback, please contact [Atif-hub24](https://github.com/Atif-hub24).
+For any questions or feedback, please contact [Atif-hub24](https://github.com/atifabdulraheem).
