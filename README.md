@@ -1,60 +1,63 @@
-# Analog Clock
+# Analog-Clock
 
 ## Overview
-The Analog Clock project is a simple, visually appealing analog clock implemented using Python and the `tkinter` library. It provides a real-time display of the current time with hour, minute, and second hands.
+
+Analog-Clock is a simple Python-based application that displays a graphical analog clock. This project demonstrates basic GUI programming and can be used as a learning tool for those interested in Python and graphical user interfaces.
 
 ## Features
-- Real-time display of current time
-- Smooth animations for clock hands
-- User-friendly interface
+- Real-time analog clock display
+- Customizable clock face and hands
+- Simple and intuitive design
+- Lightweight and easy to use
 
 ## Installation
-To install and run the Analog Clock project locally, follow these steps:
+To run the Analog-Clock locally, follow these steps:
 
 1. Clone the repository:
-   ```
-   git clone https://github.com/Atif-hub24/Analog_Clock.git
-   ```
+    ```bash
+    git clone https://github.com/atifabdulraheem/Analog-Clock.git
+    ```
+
 2. Navigate to the project directory:
-   ```
-   cd Analog_Clock
-   ```
-3. (Optional) Create a virtual environment:
-   ```
-   python -m venv venv
-   source venv/bin/activate   # On Windows: venv\Scripts\activate
-   ```
-4. Install the required dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
+    ```bash
+    cd Analog-Clock
+    ```
+
+3. Create a virtual environment:
+    ```bash
+    python -m venv venv
+    ```
+
+4. Activate the virtual environment:
+    - On Windows:
+      ```bash
+      venv\Scripts\activate
+      ```
+    - On macOS and Linux:
+      ```bash
+      source venv/bin/activate
+      ```
+
+5. Install the dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 ## Usage
-To start the application, run:
-```
-python analog_clock.py
+To start the application, run the following command:
+```bash
+python main.py
 ```
 
 ## Contributing
-We welcome contributions to the Analog Clock project. To contribute, follow these steps:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```
-   git checkout -b feature-branch
-   ```
-3. Make your changes and commit them:
-   ```
-   git commit -m "Add new feature"
-   ```
-4. Push to the branch:
-   ```
-   git push origin feature-branch
-   ```
-5. Create a pull request.
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any questions or feedback, please contact [Atif Abdul Raheem](https://github.com/atifabdulraheem).
+For any inquiries or support, please contact:
+- Name: Atif Abdul Raheem
+- Email: atifabdulraheem@example.com
+- GitHub: [atifabdulraheem](https://github.com/atifabdulraheem)
+```
