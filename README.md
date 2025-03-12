@@ -2,7 +2,7 @@
 
 ## Overview
 
-Analog-Clock is a simple Python-based application that displays a graphical analog clock. This project demonstrates basic GUI programming and can be used as a learning tool for those interested in Python and graphical user interfaces.
+Analog-Clock is a simple Python-based application that displays a graphical analog clock. This project demonstrates basic GUI programming and can be used as a learning tool for those interested in Python and graphical user interfaces. 
 
 ## Features
 - Real-time analog clock display
